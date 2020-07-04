@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ManageSoccer/1.0.0": {
+        "dependencies": {
+          "LibrarySoccer": "1.0.0"
+        },
+        "runtime": {
+          "ManageSoccer.dll": {}
+        }
+      },
+      "LibrarySoccer/1.0.0": {
+        "runtime": {
+          "LibrarySoccer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManageSoccer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibrarySoccer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

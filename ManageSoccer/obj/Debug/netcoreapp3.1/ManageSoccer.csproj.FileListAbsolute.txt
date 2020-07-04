@@ -1,0 +1,16 @@
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\ManageSoccer\bin\Debug\netcoreapp3.1\ManageSoccer.exe
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\ManageSoccer\bin\Debug\netcoreapp3.1\ManageSoccer.deps.json
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\ManageSoccer\bin\Debug\netcoreapp3.1\ManageSoccer.runtimeconfig.json
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\ManageSoccer\bin\Debug\netcoreapp3.1\ManageSoccer.runtimeconfig.dev.json
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\ManageSoccer\bin\Debug\netcoreapp3.1\ManageSoccer.dll
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\ManageSoccer\bin\Debug\netcoreapp3.1\ManageSoccer.pdb
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\ManageSoccer\obj\Debug\netcoreapp3.1\ManageSoccer.csprojAssemblyReference.cache
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\ManageSoccer\obj\Debug\netcoreapp3.1\ManageSoccer.AssemblyInfoInputs.cache
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\ManageSoccer\obj\Debug\netcoreapp3.1\ManageSoccer.AssemblyInfo.cs
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\ManageSoccer\obj\Debug\netcoreapp3.1\ManageSoccer.csproj.CoreCompileInputs.cache
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\ManageSoccer\obj\Debug\netcoreapp3.1\ManageSoccer.dll
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\ManageSoccer\obj\Debug\netcoreapp3.1\ManageSoccer.pdb
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\ManageSoccer\obj\Debug\netcoreapp3.1\ManageSoccer.genruntimeconfig.cache
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\ManageSoccer\bin\Debug\netcoreapp3.1\LibrarySoccer.dll
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\ManageSoccer\bin\Debug\netcoreapp3.1\LibrarySoccer.pdb
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\ManageSoccer\obj\Debug\netcoreapp3.1\ManageSoccer.csproj.CopyComplete

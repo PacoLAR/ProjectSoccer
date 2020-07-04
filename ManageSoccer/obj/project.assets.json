@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LibrarySoccer/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/LibrarySoccer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibrarySoccer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibrarySoccer/1.0.0": {
+      "type": "project",
+      "path": "../LibrarySoccer/LibrarySoccer.csproj",
+      "msbuildProject": "../LibrarySoccer/LibrarySoccer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "LibrarySoccer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pacor\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\pacor\\Documents\\Works\\TRSF\\Programacion\\Projects\\ProjectSoccer\\ManageSoccer\\ManageSoccer.csproj",
+      "projectName": "ManageSoccer",
+      "projectPath": "C:\\Users\\pacor\\Documents\\Works\\TRSF\\Programacion\\Projects\\ProjectSoccer\\ManageSoccer\\ManageSoccer.csproj",
+      "packagesPath": "C:\\Users\\pacor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pacor\\Documents\\Works\\TRSF\\Programacion\\Projects\\ProjectSoccer\\ManageSoccer\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\pacor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\pacor\\Documents\\Works\\TRSF\\Programacion\\Projects\\ProjectSoccer\\LibrarySoccer\\LibrarySoccer.csproj": {
+              "projectPath": "C:\\Users\\pacor\\Documents\\Works\\TRSF\\Programacion\\Projects\\ProjectSoccer\\LibrarySoccer\\LibrarySoccer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

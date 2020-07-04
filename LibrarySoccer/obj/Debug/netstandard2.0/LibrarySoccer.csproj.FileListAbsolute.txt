@@ -1,0 +1,9 @@
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\LibrarySoccer\bin\Debug\netstandard2.0\LibrarySoccer.deps.json
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\LibrarySoccer\bin\Debug\netstandard2.0\LibrarySoccer.dll
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\LibrarySoccer\bin\Debug\netstandard2.0\LibrarySoccer.pdb
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\LibrarySoccer\obj\Debug\netstandard2.0\LibrarySoccer.csprojAssemblyReference.cache
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\LibrarySoccer\obj\Debug\netstandard2.0\LibrarySoccer.AssemblyInfoInputs.cache
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\LibrarySoccer\obj\Debug\netstandard2.0\LibrarySoccer.AssemblyInfo.cs
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\LibrarySoccer\obj\Debug\netstandard2.0\LibrarySoccer.csproj.CoreCompileInputs.cache
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\LibrarySoccer\obj\Debug\netstandard2.0\LibrarySoccer.dll
+C:\Users\pacor\Documents\Works\TRSF\Programacion\Projects\ProjectSoccer\LibrarySoccer\obj\Debug\netstandard2.0\LibrarySoccer.pdb
